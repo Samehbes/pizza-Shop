@@ -1,6 +1,7 @@
 # pizza-Shop
 Pizza shop using php and mysql
 Pizza Store Email Messages Forgot Password. Client side and admin side to go to admin panel should write in the URL there add admin also here there is authorized you can not enter admin panel only if you log in as admin in addition you can add to cart and also buy separately There is also a loading of animation when entering the site
+project made by sameh besan & george abu kahlil
 ![login](https://user-images.githubusercontent.com/88317294/156879060-0da17e53-1d58-4cbc-99c5-3b405ec6b848.png)
 ![forget pass](https://user-images.githubusercontent.com/88317294/156879062-059005d4-cdb0-48f9-9951-e60b63a36d04.png)
 ![page](https://user-images.githubusercontent.com/88317294/156879064-5bbfdafd-b8aa-4a11-8ebd-b108e9762006.png)
