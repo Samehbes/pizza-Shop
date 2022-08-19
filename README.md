@@ -1,9 +1,10 @@
 # pizza-Shop
-(project made by sameh besan & george abu kahlil)
-·	In order to supply the growing demand in the pizza shop,
+In order to supply the growing demand in the pizza shop,
 We developed a website for the pizza shop we implemented the frontend and the backend
-·	Technologies used for the frontend -HTML5, CSS3, Javascript
-·	For the backend – php, MySQL
+Technologies used for the frontend -HTML5, CSS3, Javascript
+For the backend – php, MySQL
+(project made by sameh besan & george abu kahlil)
+
 
 
 ![login](https://user-images.githubusercontent.com/88317294/156879060-0da17e53-1d58-4cbc-99c5-3b405ec6b848.png)
