@@ -1,8 +1,10 @@
 # pizza-Shop
-Pizza shop using php and mysql
-Pizza Store Email Messages Forgot Password. Client side and admin side to go to admin panel should write in the URL there add admin also here there is authorized you can not enter admin panel only if you log in as admin in addition you can add to cart and also buy separately There is also a loading of animation when entering the site
-
 (project made by sameh besan & george abu kahlil)
+·	In order to supply the growing demand in the pizza shop,
+We developed a website for the pizza shop we implemented the frontend and the backend
+·	Technologies used for the frontend -HTML5, CSS3, Javascript
+·	For the backend – php, MySQL
+
 
 ![login](https://user-images.githubusercontent.com/88317294/156879060-0da17e53-1d58-4cbc-99c5-3b405ec6b848.png)
 ![forget pass](https://user-images.githubusercontent.com/88317294/156879062-059005d4-cdb0-48f9-9951-e60b63a36d04.png)
