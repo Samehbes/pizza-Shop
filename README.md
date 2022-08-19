@@ -2,7 +2,6 @@
 In order to supply the growing demand in the pizza shop,
 We developed a website for the pizza shop we implemented the frontend and the backend
 the website has an admin login and a user login.
-in order to accses the admin login you need to write in the url /admin
 Technologies used for the frontend -HTML5, CSS3, Javascript
 For the backend – php, MySQL
 (project made by sameh besan & george abu kahlil)
